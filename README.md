@@ -18,11 +18,11 @@
 ---
 
 ## 🚀 Sobre mí
-Desarrollador Full-Stack con ~3 años construyendo productos end-to-end. He creado plataformas internas de RRHH (contratos, horarios, desempeño, ausencias) con foco en rendimiento, seguridad y alta disponibilidad. Fui Cofundador y CTO de una startup de automatización con IA (chatbots con memoria, agendas e integraciones de flujo operativo). Me encantan los sistemas escalables, el diseño limpio y reducir trabajo manual con buen software. :contentReference[oaicite:2]{index=2}
+Desarrollador Full-Stack con ~3 años construyendo productos end-to-end. He creado plataformas internas de RRHH (contratos, horarios, desempeño, ausencias) con foco en rendimiento, seguridad y alta disponibilidad. Fui Cofundador y CTO de una startup de automatización con IA (chatbots con memoria, agendas e integraciones de flujo operativo). Me encantan los sistemas escalables, el diseño limpio y reducir trabajo manual con buen software.
 
-- 🧩 En **BaseLang**: dashboards admin (React/Angular), servicios en **Go** y **Java (Spring Boot)** con control de acceso y auditoría, contenedorización con Docker y reportes automáticos. :contentReference[oaicite:3]{index=3}  
-- 🤖 En **Misgara**: bots conversacionals para soporte y gestión de citas con integraciones de calendario y recordatorios. :contentReference[oaicite:4]{index=4}  
-- 🗣️ Idiomas: Español nativo · Inglés profesional. :contentReference[oaicite:5]{index=5}
+- 🧩 En **BaseLang**: dashboards admin (React/Angular), servicios en **Go** y **Java (Spring Boot)** con control de acceso y auditoría, contenedorización con Docker y reportes automáticos.  
+- 🤖 En **Misgara**: bot conversacional para soporte y gestión de citas con integraciones de calendario y recordatorios.  
+- 🗣️ Idiomas: Español nativo · Inglés profesional.
 
 ---
 
@@ -31,19 +31,17 @@ Desarrollador Full-Stack con ~3 años construyendo productos end-to-end. He crea
 ### Qraxis — CQRS & Event-Driven para Go
 Framework de mensajería empresarial en Go con **CommandBus**, **QueryBus** y **EventBus**, construido sobre Katalyze.  
 `go get github.com/Angeldadro/Qraxis`  
-🔗 Repo: https://github.com/Angeldadro/Qraxis :contentReference[oaicite:6]{index=6}
+🔗 Repo: https://github.com/Angeldadro/Qraxis
 
-> Características: arquitectura CQRS completa, buses de mensajes claros, diseño modular de alta cohesión/bajo acoplamiento, ejemplos de uso. :contentReference[oaicite:7]{index=7}
+> Características: arquitectura CQRS completa, buses de mensajes claros, diseño modular de alta cohesión/bajo acoplamiento, ejemplos de uso.
 
 ---
 
 ### Katalyze — base de mensajería en Go
 Repositorio base (MIT) que sirve como cimiento para Qraxis y sistemas distribuidos en Go.  
-🔗 Repo: https://github.com/Angeldadro/Katalyze :contentReference[oaicite:8]{index=8}
+🔗 Repo: https://github.com/Angeldadro/Katalyze
 
 ---
-
-
 
 
 ## 🛠️ Tech Stack
@@ -52,15 +50,7 @@ Repositorio base (MIT) que sirve como cimiento para Qraxis y sistemas distribuid
 - **DevOps:** Docker, Kubernetes, CI/CD  
 - **Data:** PostgreSQL, MySQL  
 - **IA/Automatización:** chatbots, bases de datos vectoriales  
-- **Colaboración:** trabajar remoto, documentación clara :contentReference[oaicite:11]{index=11}
-
----
-
-## 📊 Stats (porque a veces motivan)
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Angeldadro&show_icons=true&hide_title=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angeldadro&layout=compact&hide_title=true" />
-</p>
+- **Colaboración:** trabajo remoto, documentación clara
 
 ---
 
