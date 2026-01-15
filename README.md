@@ -18,7 +18,7 @@
 ---
 
 ## 🚀 Sobre mí
-Desarrollador Full-Stack con ~3 años construyendo productos end-to-end. He creado plataformas internas de RRHH (contratos, horarios, desempeño, ausencias) con foco en rendimiento, seguridad y alta disponibilidad. Fui Cofundador y CTO de una startup de automatización con IA (chatbots con memoria, agendas e integraciones de flujo operativo). Me encantan los sistemas escalables, el diseño limpio y reducir trabajo manual con buen software.
+Desarrollador Full-Stack con 4+ años construyendo productos end-to-end. He creado plataformas internas de RRHH (contratos, horarios, desempeño, ausencias) con foco en rendimiento, seguridad y alta disponibilidad. Fui Cofundador y CTO de una startup de automatización con IA (chatbots con memoria, agendas e integraciones de flujo operativo). Me encantan los sistemas escalables, el diseño limpio y reducir trabajo manual con buen software.
 
 - 🧩 En **BaseLang**: dashboards admin (React/Angular), servicios en **Go** y **Java (Spring Boot)** con control de acceso y auditoría, contenedorización con Docker y reportes automáticos.  
 - 🤖 En **Misgara**: bot conversacional para soporte y gestión de citas con integraciones de calendario y recordatorios.  
