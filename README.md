@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Ángel 👋</h1>
 <p align="center">
   <b>Full-Stack Developer</b> — Go · TypeScript · Java · React · Angular · Docker · Kubernetes  
-  <br/>Colombia · 
+  <br/>Colombia
 </p>
 
 <p align="center">
