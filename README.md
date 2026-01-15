@@ -54,5 +54,3 @@ Repositorio base (MIT) que sirve como cimiento para Qraxis y sistemas distribuid
 
 ---
 
-
----
