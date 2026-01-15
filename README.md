@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Ángel 👋</h1>
 <p align="center">
   <b>Full-Stack Developer</b> — Go · TypeScript · Java · React · Angular · Docker · Kubernetes  
-  <br/>Colombia · <a href="https://linkedin.com/in/angelddelgado">LinkedIn</a> · ✉️ angeldadro@gmail.com · 📱 +57 314 492 8922
+  <br/>Colombia · 
 </p>
 
 <p align="center">
@@ -54,8 +54,5 @@ Repositorio base (MIT) que sirve como cimiento para Qraxis y sistemas distribuid
 
 ---
 
-## 🤝 ¿Hablamos?
-- 💼 <a href="https://linkedin.com/in/angelddelgado">linkedin.com/in/angelddelgado</a>  
-- ✉️ **angeldadro@gmail.com**
 
 ---
