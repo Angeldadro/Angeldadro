@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Ángel 👋</h1>
+<h1 align="center">Hi, I'm Ángel 👋</h1>
 <p align="center">
   <b>Full-Stack Developer</b> — Go · TypeScript · Java · React · Angular · Docker · Kubernetes  
   <br/>Colombia
@@ -17,28 +17,29 @@
 
 ---
 
-## 🚀 Sobre mí
-Desarrollador Full-Stack con 4+ años construyendo productos end-to-end. He creado plataformas internas de RRHH (contratos, horarios, desempeño, ausencias) con foco en rendimiento, seguridad y alta disponibilidad. Fui Cofundador y CTO de una startup de automatización con IA (chatbots con memoria, agendas e integraciones de flujo operativo). Me encantan los sistemas escalables, el diseño limpio y reducir trabajo manual con buen software.
+## 🚀 About Me
+Full-Stack Developer with 4+ years of experience building end-to-end products. I have created internal HR platforms (contracts, scheduling, performance, absences) with a focus on performance, security, and high availability. I was the Co-Founder and CTO of an AI automation startup (memory-enabled chatbots, scheduling, and operational workflow integrations). I love scalable systems, clean design, and reducing manual work with solid software.
 
-- 🧩 En **BaseLang**: dashboards admin (React/Angular), servicios en **Go** y **Java (Spring Boot)** con control de acceso y auditoría, contenedorización con Docker y reportes automáticos.  
-- 🤖 En **Misgara**: bot conversacional para soporte y gestión de citas con integraciones de calendario y recordatorios.  
-- 🗣️ Idiomas: Español nativo · Inglés profesional.
+- 🧩 At **BaseLang**: admin dashboards (React/Angular), services in **Go** and **Java (Spring Boot)** with access control and auditing, Docker-based containerization, and automated reporting.  
+- 🤖 At **Misgara**: conversational bot for support and appointment management with calendar integrations and reminders.  
+- 🗣️ Languages: Native Spanish · Professional English.  
+- Skills: Node.js/Nest.js, Python/FastAPI, Flask, React/NestJS.
 
 ---
 
-## 🧱 Proyectos destacados
+## 🧱 Featured Projects
 
-### Qraxis — CQRS & Event-Driven para Go
-Framework de mensajería empresarial en Go con **CommandBus**, **QueryBus** y **EventBus**, construido sobre Katalyze.  
+### Qraxis — CQRS & Event-Driven for Go
+Enterprise messaging framework in Go with **CommandBus**, **QueryBus**, and **EventBus**, built on top of Katalyze.  
 `go get github.com/Angeldadro/Qraxis`  
 🔗 Repo: https://github.com/Angeldadro/Qraxis
 
-> Características: arquitectura CQRS completa, buses de mensajes claros, diseño modular de alta cohesión/bajo acoplamiento, ejemplos de uso.
+> Features: full CQRS architecture, clear message buses, modular high-cohesion/low-coupling design, and usage examples.
 
 ---
 
-### Katalyze — base de mensajería en Go
-Repositorio base (MIT) que sirve como cimiento para Qraxis y sistemas distribuidos en Go.  
+### Katalyze — messaging foundation for Go
+Base repository (MIT) that serves as the foundation for Qraxis and distributed systems in Go.  
 🔗 Repo: https://github.com/Angeldadro/Katalyze
 
 ---
@@ -46,11 +47,10 @@ Repositorio base (MIT) que sirve como cimiento para Qraxis y sistemas distribuid
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Angular, TypeScript  
-- **Backend:** Go, Java (Spring Boot), NestJS, microservicios, CQRS, EDA  
+- **Backend:** Go, Java (Spring Boot), NestJS, microservices, CQRS, EDA  
 - **DevOps:** Docker, Kubernetes, CI/CD  
 - **Data:** PostgreSQL, MySQL  
-- **IA/Automatización:** chatbots, bases de datos vectoriales  
-- **Colaboración:** trabajo remoto, documentación clara
+- **AI/Automation:** chatbots, vector databases  
+- **Collaboration:** remote work, clear documentation
 
 ---
-
