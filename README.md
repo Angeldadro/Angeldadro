@@ -15,7 +15,7 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
 </p>
 
----
+--- 
 
 ## 🚀 About Me
 Full-Stack Developer with 4+ years of experience building end-to-end products. I have created internal HR platforms (contracts, scheduling, performance, absences) with a focus on performance, security, and high availability. I was the Co-Founder and CTO of an AI automation startup (memory-enabled chatbots, scheduling, and operational workflow integrations). I love scalable systems, clean design, and reducing manual work with solid software.
