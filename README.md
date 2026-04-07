@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ángel 👋</h1>
 <p align="center">
-  <b>Full-Stack Developer</b> — Go · TypeScript · Java · React · Angular · Docker · Kubernetes  
+  <b>Full-Stack Developer</b> — Go · TypeScript · Java · Node.js/NestJS · Python/FastAPI · Flask · React · Angular · Docker · Kubernetes  
   <br/>Colombia
 </p>
 
@@ -23,7 +23,7 @@ Full-Stack Developer with 4+ years of experience building end-to-end products. I
 - 🧩 At **BaseLang**: admin dashboards (React/Angular), services in **Go** and **Java (Spring Boot)** with access control and auditing, Docker-based containerization, and automated reporting.  
 - 🤖 At **Misgara**: conversational bot for support and appointment management with calendar integrations and reminders.  
 - 🗣️ Languages: Native Spanish · Professional English.  
-- Skills: Node.js/Nest.js, Python/FastAPI, Flask, React/NestJS.
+- Skills: Node.js/NestJS, Python/FastAPI, Flask, React/NestJS.
 
 ---
 
@@ -47,7 +47,7 @@ Base repository (MIT) that serves as the foundation for Qraxis and distributed s
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Angular, TypeScript  
-- **Backend:** Go, Java (Spring Boot), NestJS, microservices, CQRS, EDA  
+- **Backend:** Go, Java (Spring Boot), Node.js (NestJS), Python (FastAPI, Flask), microservices, CQRS, EDA  
 - **DevOps:** Docker, Kubernetes, CI/CD  
 - **Data:** PostgreSQL, MySQL  
 - **AI/Automation:** chatbots, vector databases  
